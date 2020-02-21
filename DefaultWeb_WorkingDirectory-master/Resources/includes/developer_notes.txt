@@ -1,4 +1,0 @@
-These are the important developer notes
-These are the instructions for use of the resources for all developers.
-
-This file better be tracked!
